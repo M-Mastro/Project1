@@ -33,6 +33,7 @@ to identify the state with the highest number of female recipients. We expect to
 between states, with some having substantially higher recipient counts than others.
 
 <img width="270" height="164" alt="image" src="https://github.com/user-attachments/assets/1f725364-10da-4fb0-afbe-4ebf88669670" />
+
 Figure 1. Female disability compensation recipients in Texas and Florida
 
 To answer Question 2, we will use the state and male recipient columns to calculate the total number of
@@ -41,6 +42,7 @@ and display the five states with the largest totals using a bar graph. We expect
 populations to have higher numbers of male disability compensation recipients.
 
 <img width="282" height="172" alt="image" src="https://github.com/user-attachments/assets/0d855d4d-0b33-4f82-81dc-ef587bdd7fcf" />
+
 Figure 2. Male disability compensation recipients in Texas and Florida graph
 
 To answer Question 3, we will use the three age categories provided in the dataset: 17–44, 45–64, and 65
@@ -49,6 +51,7 @@ compare the results. We expect the distribution to vary between age groups, allo
 age category contains the largest number of recipients.
 
 <img width="298" height="179" alt="image" src="https://github.com/user-attachments/assets/6322b6f2-46ac-4c58-91cd-896247bcc0ed" />
+
 Figure 3. Disability compensation recipients by age group graph
 
 # Results
